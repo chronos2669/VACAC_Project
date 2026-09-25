@@ -48,7 +48,7 @@ MonoBehaviour:
   beltRenderer: {fileID: 5769268432626235147}
   beltMaterialIndex: 0
   scrollDirection: {x: 1, y: 0}
-  scrollSpeed: 1.5
+  scrollSpeed: 0.5
   gizmoLength: 3
   gizmoIsIncline: 0
 --- !u!1001 &1926755740483869969
