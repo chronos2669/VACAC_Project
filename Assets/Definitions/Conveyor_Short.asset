@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71316946e08c45ac4947d55dfd2b9b91, type: 3}
   m_Name: Conveyor_Short
   m_EditorClassIdentifier: Assembly-CSharp::ConveyorDefinition
-  displayName: Generic
+  displayName: Short
   prefab: {fileID: 9112079449041659967, guid: 28205a35e554767d3a281b92ac4c542e, type: 3}
   lengthCells: 2
   isIncline: 0
